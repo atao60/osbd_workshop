@@ -7,6 +7,10 @@
 ##### h5 Heading
 ###### h6 Heading
 
+## Maths
+
+$x^2 * x^2$
+
 ## Emphasis
 
 **This is bold text**
